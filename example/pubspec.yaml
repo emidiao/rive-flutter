@@ -13,7 +13,6 @@ dependencies:
   flutter:
     sdk: flutter
   rive:
-    path: ../
   http:
 
 dev_dependencies:
